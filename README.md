@@ -9,9 +9,6 @@ Software engineering student. :computer:
   <a href="mailto:pedoguinha2@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/_pedrogomes5/?hl=pt-br">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
 </p>
 
 I love the world of technology and programming, and I also like to help and learn together with other developers. I always try to evolve and learn every day, always maintaining focus and determination.
@@ -28,7 +25,6 @@ I love the world of technology and programming, and I also like to help and lear
   <code><img height="20" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></code>
   <code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"></code>
   <code><img height="20" src="https://img.shields.io/badge/-MySQL-black?style=flat"></code>
-  <code><img height="20" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></code>
   
 </p>
 <br /> 
